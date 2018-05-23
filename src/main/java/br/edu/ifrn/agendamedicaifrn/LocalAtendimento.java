@@ -25,6 +25,7 @@ public class LocalAtendimento {
     private String Bairro;
     private Double latitude;
     private Double longitude;
+<<<<<<< HEAD
 	public Integer getId() {
 		return id;
 	}
@@ -117,5 +118,7 @@ public class LocalAtendimento {
 	}
     
     
+=======
+>>>>>>> 28242e07907974b6c9147039c3670d71153e6325
     
 }
